@@ -1,0 +1,45 @@
+[
+    {
+      "image": "i1.gif",
+      "title": "Quality You Can Trust",
+      "description": "Our experts are highly qualified and experienced in their fields. They are dedicated to providing you with the best quality work.",
+      "bgColor": "bg-[#4169E1]",
+      "hoverColor": "hover:bg-[#FF6347]"
+    },
+    {
+      "image": "i2.gif",
+      "title": "On-Time Delivery",
+      "description": "We understand the importance of deadlines. Our experts are committed to delivering your work on time.",
+      "bgColor": "bg-[#FFDB58]",
+      "hoverColor": "hover:bg-[#40E0D0]"
+    },
+    {
+      "image": "i3.gif",
+      "title": "24/7 Support",
+      "description": "Our customer support team is available 24/7 to help you with any queries or concerns you may have.",
+      "bgColor": "bg-[#DAA520]",
+      "hoverColor": "hover:bg-[#6A5ACD]"
+    },
+    {
+      "image": "i4.gif",
+      "title": "100% Satisfaction Guarantee",
+      "description": "We are confident in the quality of our work. If you are not satisfied with the final product, we will revise it until you are happy.",
+      "bgColor": "bg-[#40E0D0]",
+      "hoverColor": "hover:bg-[#808000]"
+    },
+    {
+      "image": "i5.gif",
+      "title": "Professional Team",
+      "description": "Our experienced and dedicated team is committed to delivering results that exceed your expectations.",
+      "bgColor": "bg-[#6A5ACD]",
+      "hoverColor": "hover:bg-[#FFDB58]"
+    },
+    {
+      "image": "i6.gif",
+      "title": "Innovative Solutions",
+      "description": "We offer innovative solutions tailored to your specific requirements, helping you achieve your goals efficiently.",
+      "bgColor": "bg-[#FF6347]",
+      "hoverColor": "hover:bg-[#708090]"
+    }
+  ]
+  
