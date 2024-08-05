@@ -1,15 +1,8 @@
-import React, { useEffect, useState } from 'react';
 import { FaTwitter, FaFacebookF, FaInstagram, FaLinkedinIn, FaRobot, FaPhoneAlt, FaEnvelope, FaMapMarkerAlt } from 'react-icons/fa';
 import { Link } from 'react-router-dom';
 import logo from '../Assets/logo.png';
 
 function Footer() {
-    useEffect(() => {
-        window.addEventListener('scroll', handleScroll);
-        return () => {
-            window.removeEventListener('scroll', handleScroll);
-        };
-    }, []);
 
     return (
         <footer className="bg-black text-white py-8 relative">
