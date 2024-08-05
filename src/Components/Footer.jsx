@@ -4,21 +4,12 @@ import { Link } from 'react-router-dom';
 import logo from '../Assets/logo.png';
 
 function Footer() {
-    const [isVisible, setIsVisible] = useState(false);
     useEffect(() => {
         window.addEventListener('scroll', handleScroll);
         return () => {
             window.removeEventListener('scroll', handleScroll);
         };
     }, []);
-
-    const handleScroll = () => {
-        if (window.pageYOffset > 300) {
-            setIsVisible(true);
-        } else {
-            setIsVisible(false);
-        }
-    };
 
     return (
         <footer className="bg-black text-white py-8 relative">
